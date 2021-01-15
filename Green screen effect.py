@@ -2,7 +2,7 @@ import cv2 as cv
 import numpy as np
 import matplotlib.pyplot as plt
 
-image = cv.imread(r'E:\AI projects\Opencv\Udmey Practice Opencv\myphoto.jpg')
+image = cv.imread(r'')
 print('This is the image type:',type(image),
       'with dimensions:', image.shape)
 
